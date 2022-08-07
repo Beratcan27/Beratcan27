@@ -1,5 +1,5 @@
 ### Hi Everybody 👋
-c# java html5 css3 css3 typescript
+
 <!--
 **Beratcan27/Beratcan27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
