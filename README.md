@@ -1,5 +1,5 @@
 ### Hey, nice to see you in my Github 🍀
-I'm Berat Can Özen
+I'm Berat Can Ozen
 A software developer from Turkey
 - 🌱 I’m currently learning  .Net Core
 - 📫 How to reach me: beratozen2510@hotmail.com
