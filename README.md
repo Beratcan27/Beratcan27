@@ -1,7 +1,7 @@
 ### Hey, nice to see you in my Github 🍀
 I'm Berat Can Ozen
 A software developer from Turkey
-- 🌱 I’m currently learning  .Net Core
+- 🌱 I’m currently learning  .Net Core , Node.js
 - 📫 How to reach me: beratozen2510@hotmail.com
 - ⚡ My Linkedin : https://www.linkedin.com/in/beratcanozen/
 - Karşılaştığınız bir hata varsa Berat Can Özen#6193 Discord ekleyebilirsiniz
